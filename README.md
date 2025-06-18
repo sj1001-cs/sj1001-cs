@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shula</h1>
 
+<p align="left">
+  I'm a CS student from University of Alberta. Feel free to connect with me on LinkedIn or check out my work!
+</p>
+
+
 
 - 🚀 I’m currently building my own website, making it my portfolio
 - 🌿 Right now I'm exploring AWS and SQL
@@ -12,6 +17,7 @@
 
   
 - 😅 Just created my GitHub... so naturally, my first project is a calculator. Because, you know, gotta start with the basics before taking over the world! 🧮✨
+
 
 
 
