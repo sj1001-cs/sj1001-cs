@@ -4,6 +4,10 @@
 - 🌿 Right now I'm exploring AWS and SQL
 - 🎮 Fun fact: I love listening to music and playing games.
 
+- 😅 Just created my GitHub... so naturally, my first project is a calculator. Because, you know, gotta start with the basics before taking over the world! 🧮✨
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
