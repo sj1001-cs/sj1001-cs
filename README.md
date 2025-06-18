@@ -11,13 +11,10 @@
 - 🎮 Fun fact: I love listening to music and playing games.
 
 <div align="center">
-  <img
-    src="https://spotify-recently-played-readme.vercel.app/api?user=shula_11&count=1&unique=false"
-    alt="Spotify recently played"
-    style="pointer-events: none;"
-  />
+  <a href="#">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=shula_11&count=1&unique=false" alt="Spotify recently played" />
+  </a>
 </div>
-
 
 
   
