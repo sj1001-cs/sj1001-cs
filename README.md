@@ -1,5 +1,8 @@
 ## Hi, I'm Shula 👋🏽
 
+<h1 align="center">Hi 👋, I'm Shula</h1>
+
+
 - 🚀 I’m currently building my own website, making it my portfolio
 - 🌿 Right now I'm exploring AWS and SQL
 - 🎮 Fun fact: I love listening to music and playing games.
