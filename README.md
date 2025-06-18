@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shula</h1>
+<h1 align="center">Hi 👋🏽, I'm Shula</h1>
 
 <p align="left">
   I'm a CS student from University of Alberta. Feel free to connect with me on LinkedIn or check out my work!
