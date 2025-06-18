@@ -4,7 +4,21 @@
 - 🚀 I’m currently building my own website, making it my portfolio
 - 🌿 Right now I'm exploring AWS and SQL
 - 🎮 Fun fact: I love listening to music and playing games.
+<p align="left">Hello World!!</p>
 
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
 - 😅 Just created my GitHub... so naturally, my first project is a calculator. Because, you know, gotta start with the basics before taking over the world! 🧮✨
 
 
