@@ -1,4 +1,4 @@
-## Hi, I'm Shula 👋
+## Hi, I'm Shula 👋🏽
 
 - 🚀 I’m currently building my own website, making it my portfolio
 - 🌿 Right now I'm exploring AWS and SQL
