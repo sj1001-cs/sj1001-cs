@@ -1,4 +1,10 @@
-##                     Hi, I'm Shula 👋
+## Hi, I'm Shula 👋
+
+🚀 I’m currently building my own website, making it my portfolio
+🌿 Right now I'm exploring AWS and SQL
+🎮 Fun fact: I love listening to music and playing games.
+
+
 
 <!--
 **sj1001-cs/sj1001-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
