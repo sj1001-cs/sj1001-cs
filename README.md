@@ -1,5 +1,3 @@
-## Hi, I'm Shula 👋🏽
-
 <h1 align="center">Hi 👋, I'm Shula</h1>
 
 
