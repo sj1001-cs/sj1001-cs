@@ -7,7 +7,7 @@
 
 
 - 🚀 I’m currently building my own website, making it my portfolio
-- 🌿 Right now I'm exploring AWS and SQL
+- 🌿 Right now I'm exploring Amazon Web Services (Cloud) and SQL
 - 🎮 Fun fact: I love listening to music and playing games.
 
 <div align="center">
