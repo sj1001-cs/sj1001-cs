@@ -18,7 +18,7 @@
 
 
   
-- 😅 Just created my GitHub... so naturally, my first project is a calculator. Because, you know, gotta start with the basics before taking over the world! 🧮✨
+
 
 
 
