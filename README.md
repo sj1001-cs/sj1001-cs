@@ -4,6 +4,11 @@
   I'm a CS student from University of Alberta.
 </p>
 
+<p align="left">
+  Check out my website: <a href ="https://sj1001-cs.github.io/">My Portfolio</a>
+</p>
+
+
 
 
 - 🚀 I’m currently building my own website, making it my portfolio
